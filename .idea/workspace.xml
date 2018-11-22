@@ -1,0 +1,1261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="714cb416-46b4-4717-93fc-89839eae7a21" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/bid-eureka/target/" />
+    <ignored path="$PROJECT_DIR$/bid-colleage-api/target/" />
+    <ignored path="$PROJECT_DIR$/bid-common-pojo/target/" />
+    <ignored path="$PROJECT_DIR$/bid-enterprise/target/" />
+    <ignored path="$PROJECT_DIR$/bid-platform-web/target/" />
+    <ignored path="$PROJECT_DIR$/bid-protal/target/" />
+    <ignored path="$PROJECT_DIR$/bid-platform/target/" />
+    <ignored path="$PROJECT_DIR$/bid-colleage/target/" />
+    <ignored path="$PROJECT_DIR$/bid-common-mapper/target/" />
+    <ignored path="$PROJECT_DIR$/bid-enterprise-web/target/" />
+    <ignored path="$PROJECT_DIR$/bid-platform-api/target/" />
+    <ignored path="$PROJECT_DIR$/bid-colleage-web/target/" />
+    <ignored path="$PROJECT_DIR$/bid-enterprise-api/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="bid-parent" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../bid-parent/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="161">
+              <caret line="164" column="0" lean-forward="true" selection-start-line="164" selection-start-column="0" selection-end-line="164" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PtResourceClientService.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../bid-parent/bid-platform-api/src/main/java/com/bid/springcloud/service/PtResourceClientService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="264">
+              <caret line="18" column="6" lean-forward="false" selection-start-line="18" selection-start-column="6" selection-end-line="18" selection-end-column="6" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ServerListener.class" pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/com/codingapi/transaction-springcloud/4.1.0/transaction-springcloud-4.1.0.jar!/com/codingapi/tx/springcloud/listener/ServerListener.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="44">
+              <caret line="5" column="27" lean-forward="false" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="27" />
+              <folding>
+                <marker date="1542806409721" expanded="true" signature="0:104" ph="/.../" />
+                <marker date="1542806409721" expanded="false" signature="161:523" ph="..." />
+                <marker date="1542806409721" expanded="true" signature="823:830" ph="{}" />
+                <marker date="1542806409721" expanded="true" signature="915:1139" ph="{...}" />
+                <marker date="1542806409721" expanded="false" signature="1165:1176" ph=" { " />
+                <marker date="1542806409721" expanded="false" signature="1199:1205" ph=" }" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="EurekaServer7001_App.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../bid-parent/bid-eureka/src/main/java/com/atguigu/springcloud/EurekaServer7001_App.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="154">
+              <caret line="9" column="1" lean-forward="false" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../bid-parent/bid-common-pojo/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="286">
+              <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="application.yml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../bid-parent/bid-eureka/src/main/resources/application.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="264">
+              <caret line="12" column="22" lean-forward="false" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>spring-cloud-dependencies</find>
+      <find>eureka</find>
+      <find>db</find>
+      <find>nable</find>
+      <find>spring-cloud-starter-eureka</find>
+      <find>org.springframework.boot</find>
+      <find>spring-boot-starter-log4j&lt;</find>
+      <find>log</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../竞价系统" />
+    <push-targets>
+      <push-target-info target-remote="基本结构" target-branch="master3" repo="$PROJECT_DIR$/../竞价系统" source="master" />
+    </push-targets>
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/..///////竞价系统资料/xbin-store-cloud-master" value="PREVIEW" />
+        <entry key="F:/BaiduNetdiskDownload/04、springboot金融项目实战/q3h2df" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/bid-protal/src/main/java/com/bid/springcloud/controller/Demo.java" />
+        <option value="$PROJECT_DIR$/bid-eureka/pom.xml" />
+        <option value="$PROJECT_DIR$/bid-common-mapper/pom.xml" />
+        <option value="$PROJECT_DIR$/bid-platform-api/pom.xml" />
+        <option value="$PROJECT_DIR$/bid-platform/pom.xml" />
+        <option value="$PROJECT_DIR$/bid-common-pojo/src/main/java/com/bid/springcloud/base/LogAspectServiceApi.java" />
+        <option value="$PROJECT_DIR$/bid-common-pojo/src/main/java/com/bid/springcloud/base/BaseApiService.java" />
+        <option value="$PROJECT_DIR$/bid-common-pojo/pom.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/bid-protal/pom.xml" />
+        <option value="$PROJECT_DIR$/bid-protal/src/main/java/com/bid/springcloud/ProtalApp.java" />
+        <option value="$PROJECT_DIR$/bid-common-pojo/pom.xml" />
+        <option value="$PROJECT_DIR$/bid-common-pojo/src/main/java/com/bid/springcloud/base/LogAspectServiceApi.java" />
+        <option value="$PROJECT_DIR$/bid-platform-web/pom.xml" />
+        <option value="$PROJECT_DIR$/bid-protal/pom.xml" />
+        <option value="$PROJECT_DIR$/bid-eureka/src/main/java/com/atguigu/springcloud/EurekaServer7001_App.java" />
+        <option value="$PROJECT_DIR$/bid-eureka/pom.xml" />
+        <option value="$PROJECT_DIR$/bid-platform/pom.xml" />
+        <option value="$PROJECT_DIR$/bid-platform-api/pom.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/bid-platform-web/pom.xml" />
+        <option value="$PROJECT_DIR$/bid-eureka/pom.xml" />
+        <option value="$PROJECT_DIR$/bid-common-pojo/pom.xml" />
+        <option value="$PROJECT_DIR$/bid-common-mapper/pom.xml" />
+        <option value="$PROJECT_DIR$/bid-protal/pom.xml" />
+        <option value="$PROJECT_DIR$/bid-platform-api/pom.xml" />
+        <option value="$PROJECT_DIR$/bid-eureka/src/main/java/com/atguigu/springcloud/EurekaServer7001_App.java" />
+        <option value="$PROJECT_DIR$/bid-eureka/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\RepMaven" />
+        <option name="mavenHome" value="$PROJECT_DIR$/..///////wookTool/apache-maven-3.3.9" />
+        <option name="userSettingsFile" value="D:\wookTool\apache-maven-3.3.9\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="bid-parent" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-1" />
+    <option name="y" value="75" />
+    <option name="width" value="1346" />
+    <option name="height" value="688" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="bid-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bid-parent" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bid-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bid-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="bid-platform-web" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView" />
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Groovy" />
+    <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../bidTest" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth2" value="75" />
+    <property name="RequestMappingsPanelOrder2" value="2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\bid-parent\bid-platform-web\src\main\resources" />
+      <recent name="D:\bid-parent\bid-platform-web\src\main\java" />
+      <recent name="D:\bid-parent\bid-protal\src\main\java" />
+      <recent name="D:\bid-parent\bid-platform-api\src\main\java" />
+      <recent name="D:\bid-parent\bid-platform\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.EurekaServer7001_App">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration name="EurekaServer7001_App" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.springcloud.EurekaServer7001_App" />
+      <module name="bid-eureka" />
+      <envs />
+    </configuration>
+    <configuration name="Platform" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.bid.springcloud.Platform" />
+      <module name="bid-platform" />
+      <envs />
+    </configuration>
+    <configuration name="ProtalApp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.bid.springcloud.ProtalApp" />
+      <module name="bid-protal" />
+      <envs />
+    </configuration>
+    <configuration name="PwebApp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.bid.springcloud.PwebApp" />
+      <module name="bid-platform-web" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+    <list size="4">
+      <item index="0" class="java.lang.String" itemvalue="Spring Boot.EurekaServer7001_App" />
+      <item index="1" class="java.lang.String" itemvalue="Spring Boot.PwebApp" />
+      <item index="2" class="java.lang.String" itemvalue="Spring Boot.ProtalApp" />
+      <item index="3" class="java.lang.String" itemvalue="Spring Boot.Platform" />
+    </list>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="714cb416-46b4-4717-93fc-89839eae7a21" name="Default" comment="" />
+      <created>1542800994944</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1542800994944</updated>
+      <workItem from="1542800999085" duration="5438000" />
+      <workItem from="1542807175390" duration="1486000" />
+      <workItem from="1542811087256" duration="105000" />
+      <workItem from="1542834880287" duration="2305000" />
+      <workItem from="1542840883961" duration="3462000" />
+      <workItem from="1542848799235" duration="7241000" />
+      <workItem from="1542857686733" duration="2452000" />
+    </task>
+    <task id="LOCAL-00001" summary="项目结构">
+      <created>1542801736514</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1542801736514</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="22489000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.14674735" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.846678" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32879046" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31164902" sideWeight="0.49227372" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24962178" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30711043" sideWeight="0.5088106" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="SVN Repositories" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32993197" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32879046" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="SVN Repositories" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32993197" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.10665658" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.36308622" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="项目结构" />
+    <option name="LAST_COMMIT_MESSAGE" value="项目结构" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../bid-parent/bid-platform/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="792">
+          <caret line="36" column="35" lean-forward="false" selection-start-line="36" selection-start-column="35" selection-end-line="36" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../bid-parent/bid-colleage-api/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../bid-parent/bid-common-pojo/src/main/java/com/bid/springcloud/base/BaseApiService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="16" lean-forward="false" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../bid-parent/bid-common-pojo/src/main/java/com/bid/springcloud/base/BaseRedisService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../bid-parent/bid-common-pojo/src/main/java/com/bid/springcloud/base/LogAspectServiceApi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="33" lean-forward="false" selection-start-line="2" selection-start-column="33" selection-end-line="2" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../bid-parent/bid-common-pojo/src/main/java/com/bid/springcloud/base/ResponseBase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../bid-parent/bid-protal/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" column="34" lean-forward="false" selection-start-line="15" selection-start-column="34" selection-end-line="15" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../bid-parent/bid-enterprise/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../bid-parent/bid-enterprise-api/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../bid-parent/bid-protal/src/main/java/com/bid/springcloud/controller/Demo.java" />
+    <entry file="file://$PROJECT_DIR$/../bid-parent/bid-enterprise-web/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../bid-parent/bid-platform/src/main/java/com/bid/springcloud/controller/DeptController_Feign.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="14" column="13" lean-forward="false" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../bid-parent/bid-platform/src/main/java/com/bid/springcloud/serviceimpl/PtResourceClientServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../bid-parent/bid-platform/src/main/java/com/bid/springcloud/serviceimpl/PtRoleServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../bid-parent/bid-platform/src/main/java/com/bid/springcloud/serviceimpl/PtUserServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="24" column="13" lean-forward="false" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../bid-parent/bid-platform-web/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" column="10" lean-forward="false" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../bid-parent/bid-platform/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../bid-parent/bid-common-mapper/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../bid-parent/bid-colleage-web/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../bid-parent/bid-colleage-api/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../bid-parent/bid-colleage/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../bid-parent/bid-protal/src/main/java/com/bid/springcloud/ProtalApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" column="18" lean-forward="false" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../bid-parent/bid-eureka/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="16" lean-forward="false" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../bid-parent/bid-parent.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../bid-parent/bid-protal/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../bid-parent/bid-platform/src/main/java/com/bid/springcloud/Platform.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="18" column="14" lean-forward="false" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../bid-parent/bid-platform-api/src/main/java/com/bid/springcloud/service/DeptClientService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../bid-parent/bid-platform-api/src/main/java/com/bid/springcloud/service/DeptClientServiceFallbackFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../bid-parent/bid-platform-api/src/main/java/com/bid/springcloud/service/PtRoleClientService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../bid-parent/bid-platform-api/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="363">
+          <caret line="17" column="35" lean-forward="false" selection-start-line="17" selection-start-column="35" selection-end-line="17" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../bid-parent/bid-platform-api/src/main/java/com/bid/springcloud/service/PtUserClientService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="67">
+          <caret line="6" column="26" lean-forward="false" selection-start-line="6" selection-start-column="15" selection-end-line="6" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../bid-parent/bid-common-pojo/src/main/java/com/bid/springcloud/base/BaseApiService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../bid-parent/bid-common-pojo/src/main/java/com/bid/springcloud/base/BaseRedisService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../bid-parent/bid-common-pojo/src/main/java/com/bid/springcloud/base/LogAspectServiceApi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="21" column="16" lean-forward="false" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../bid-parent/bid-common-pojo/src/main/java/com/bid/springcloud/base/ResponseBase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../bid-parent/bid-common-pojo/src/main/java/com/bid/springcloud/constants/Constants.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="17" lean-forward="false" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../bid-parent/bid-common-pojo/src/main/java/com/bid/springcloud/entities/co_advance_endbid.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="179">
+          <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../bid-parent/bid-common-pojo/src/main/java/com/bid/springcloud/utils/CookieUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../bid-parent/bid-common-pojo/src/main/java/com/bid/springcloud/utils/DateUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../bid-parent/bid-common-pojo/src/main/java/com/bid/springcloud/utils/EasyUIDataGrid.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../bid-parent/bid-common-pojo/src/main/java/com/bid/springcloud/utils/HttpClientUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="21" column="13" lean-forward="false" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../bid-parent/bid-common-pojo/src/main/java/com/bid/springcloud/utils/MD5Util.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../bid-parent/bid-common-pojo/src/main/java/com/bid/springcloud/utils/ObjectUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="179">
+          <caret line="15" column="13" lean-forward="false" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../bid-parent/bid-common-pojo/src/main/java/com/bid/springcloud/utils/TokenUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="7" column="25" lean-forward="true" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../bid-parent/bid-eureka/src/main/java/com/atguigu/springcloud/EurekaServer7001_App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="9" column="1" lean-forward="false" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://MAVEN/com.bid:bid-parent:0.0.1-SNAPSHOT">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>MAVEN</ID>
+          <OriginalElement>com.bid:bid-parent:0.0.1-SNAPSHOT</OriginalElement>
+          <nodes>
+            <node x="" y="">com.bid:bid-parent:0.0.1-SNAPSHOT</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-dependencies:pom:Dalston.SR1</node>
+            <node x="" y="">org.springframework.boot:spring-boot-dependencies:pom:1.5.9.RELEASE</node>
+            <node x="" y="">mysql:mysql-connector-java:jar:8.0.13</node>
+            <node x="" y="">com.alibaba:druid:jar:1.0.14</node>
+            <node x="" y="">com.alibaba:druid:jar:1.0.14/com.alibaba:jconsole:jar:1.8.0</node>
+            <node x="" y="">com.alibaba:druid:jar:1.0.14/com.alibaba:tools:jar:1.8.0</node>
+            <node x="" y="">org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.3.0</node>
+            <node x="" y="">org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.3.0/org.springframework.boot:spring-boot-starter-jdbc:jar:2.1.0.RELEASE</node>
+            <node x="" y="">org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.3.0/org.springframework.boot:spring-boot-starter-jdbc:jar:2.1.0.RELEASE/com.zaxxer:HikariCP:jar:3.2.0</node>
+            <node x="" y="">org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.3.0/org.springframework.boot:spring-boot-starter-jdbc:jar:2.1.0.RELEASE/org.springframework:spring-jdbc:jar:5.1.2.RELEASE</node>
+            <node x="" y="">org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.3.0/org.mybatis.spring.boot:mybatis-spring-boot-autoconfigure:jar:1.3.0</node>
+            <node x="" y="">org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.3.0/org.mybatis:mybatis:jar:3.4.4</node>
+            <node x="" y="">org.mybatis.spring.boot:mybatis-spring-boot-starter:jar:1.3.0/org.mybatis:mybatis-spring:jar:1.3.1</node>
+            <node x="" y="">ch.qos.logback:logback-core:jar:1.2.3</node>
+            <node x="" y="">junit:junit:jar:4.12</node>
+            <node x="" y="">junit:junit:jar:4.12/org.hamcrest:hamcrest-core:jar:1.3</node>
+            <node x="" y="">log4j:log4j:jar:1.2.17</node>
+            <node x="" y="">org.apache.commons:commons-lang3:jar:3.4</node>
+            <node x="" y="">org.projectlombok:lombok:jar:1.16.18</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-data-redis:jar:2.1.0.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-data-redis:jar:2.1.0.RELEASE/org.springframework.data:spring-data-redis:jar:2.1.2.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-data-redis:jar:2.1.0.RELEASE/org.springframework.data:spring-data-redis:jar:2.1.2.RELEASE/org.springframework.data:spring-data-keyvalue:jar:2.1.2.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-data-redis:jar:2.1.0.RELEASE/org.springframework.data:spring-data-redis:jar:2.1.2.RELEASE/org.springframework.data:spring-data-keyvalue:jar:2.1.2.RELEASE/org.springframework.data:spring-data-commons:jar:2.1.2.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-data-redis:jar:2.1.0.RELEASE/org.springframework.data:spring-data-redis:jar:2.1.2.RELEASE/org.springframework:spring-tx:jar:5.1.2.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-data-redis:jar:2.1.0.RELEASE/org.springframework.data:spring-data-redis:jar:2.1.2.RELEASE/org.springframework:spring-oxm:jar:5.1.2.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-data-redis:jar:2.1.0.RELEASE/org.springframework.data:spring-data-redis:jar:2.1.2.RELEASE/org.slf4j:slf4j-api:jar:1.7.25</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-data-redis:jar:2.1.0.RELEASE/io.lettuce:lettuce-core:jar:5.1.2.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-data-redis:jar:2.1.0.RELEASE/io.lettuce:lettuce-core:jar:5.1.2.RELEASE/io.projectreactor:reactor-core:jar:3.2.2.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-data-redis:jar:2.1.0.RELEASE/io.lettuce:lettuce-core:jar:5.1.2.RELEASE/io.projectreactor:reactor-core:jar:3.2.2.RELEASE/org.reactivestreams:reactive-streams:jar:1.0.2</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-data-redis:jar:2.1.0.RELEASE/io.lettuce:lettuce-core:jar:5.1.2.RELEASE/io.netty:netty-common:jar:4.1.29.Final</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-data-redis:jar:2.1.0.RELEASE/io.lettuce:lettuce-core:jar:5.1.2.RELEASE/io.netty:netty-transport:jar:4.1.29.Final</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-data-redis:jar:2.1.0.RELEASE/io.lettuce:lettuce-core:jar:5.1.2.RELEASE/io.netty:netty-transport:jar:4.1.29.Final/io.netty:netty-buffer:jar:4.1.29.Final</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-data-redis:jar:2.1.0.RELEASE/io.lettuce:lettuce-core:jar:5.1.2.RELEASE/io.netty:netty-transport:jar:4.1.29.Final/io.netty:netty-resolver:jar:4.1.29.Final</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-data-redis:jar:2.1.0.RELEASE/io.lettuce:lettuce-core:jar:5.1.2.RELEASE/io.netty:netty-handler:jar:4.1.29.Final</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-data-redis:jar:2.1.0.RELEASE/io.lettuce:lettuce-core:jar:5.1.2.RELEASE/io.netty:netty-handler:jar:4.1.29.Final/io.netty:netty-codec:jar:4.1.29.Final</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-aop:jar:2.1.0.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-aop:jar:2.1.0.RELEASE/org.springframework:spring-aop:jar:5.1.2.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-aop:jar:2.1.0.RELEASE/org.aspectj:aspectjweaver:jar:1.9.2</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-activemq:jar:2.1.0.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-activemq:jar:2.1.0.RELEASE/org.springframework:spring-jms:jar:5.1.2.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-activemq:jar:2.1.0.RELEASE/org.springframework:spring-jms:jar:5.1.2.RELEASE/org.springframework:spring-messaging:jar:5.1.2.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-activemq:jar:2.1.0.RELEASE/org.apache.activemq:activemq-broker:jar:5.15.7</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-activemq:jar:2.1.0.RELEASE/org.apache.activemq:activemq-broker:jar:5.15.7/org.apache.activemq:activemq-client:jar:5.15.7</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-activemq:jar:2.1.0.RELEASE/org.apache.activemq:activemq-broker:jar:5.15.7/org.apache.activemq:activemq-client:jar:5.15.7/org.fusesource.hawtbuf:hawtbuf:jar:1.11</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-activemq:jar:2.1.0.RELEASE/org.apache.activemq:activemq-broker:jar:5.15.7/org.apache.activemq:activemq-client:jar:5.15.7/org.apache.geronimo.specs:geronimo-j2ee-management_1.1_spec:jar:1.0.1</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-activemq:jar:2.1.0.RELEASE/org.apache.activemq:activemq-broker:jar:5.15.7/org.apache.activemq:activemq-openwire-legacy:jar:5.15.7</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-activemq:jar:2.1.0.RELEASE/org.apache.activemq:activemq-broker:jar:5.15.7/com.google.guava:guava:jar:18.0</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-activemq:jar:2.1.0.RELEASE/org.apache.activemq:activemq-broker:jar:5.15.7/com.fasterxml.jackson.core:jackson-databind:jar:2.9.7</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-activemq:jar:2.1.0.RELEASE/javax.jms:javax.jms-api:jar:2.0.1</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-mail:jar:2.1.0.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-mail:jar:2.1.0.RELEASE/org.springframework:spring-context:jar:5.1.2.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-mail:jar:2.1.0.RELEASE/org.springframework:spring-context:jar:5.1.2.RELEASE/org.springframework:spring-expression:jar:5.1.2.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-mail:jar:2.1.0.RELEASE/com.sun.mail:javax.mail:jar:1.6.2</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-mail:jar:2.1.0.RELEASE/com.sun.mail:javax.mail:jar:1.6.2/javax.activation:activation:jar:1.1</node>
+            <node x="" y="">org.mybatis:mybatis:jar:3.4.0</node>
+            <node x="" y="">tk.mybatis:mapper:jar:3.3.7</node>
+            <node x="" y="">tk.mybatis:mapper:jar:3.3.7/javax.persistence:persistence-api:jar:1.0</node>
+            <node x="" y="">commons-httpclient:commons-httpclient:jar:3.1</node>
+            <node x="" y="">commons-httpclient:commons-httpclient:jar:3.1/commons-logging:commons-logging:jar:1.0.4</node>
+            <node x="" y="">commons-httpclient:commons-httpclient:jar:3.1/commons-codec:commons-codec:jar:1.11</node>
+            <node x="" y="">org.apache.httpcomponents:httpclient:jar:4.5.6</node>
+            <node x="" y="">org.apache.httpcomponents:httpclient:jar:4.5.6/org.apache.httpcomponents:httpcore:jar:4.4.10</node>
+            <node x="" y="">com.alibaba:fastjson:jar:1.2.30</node>
+            <node x="" y="">org.springframework:spring-context-support:jar:5.1.2.RELEASE</node>
+            <node x="" y="">org.springframework:spring-context-support:jar:5.1.2.RELEASE/org.springframework:spring-beans:jar:5.1.2.RELEASE</node>
+            <node x="" y="">org.springframework:spring-context-support:jar:5.1.2.RELEASE/org.springframework:spring-core:jar:5.1.2.RELEASE</node>
+            <node x="" y="">org.springframework:spring-context-support:jar:5.1.2.RELEASE/org.springframework:spring-core:jar:5.1.2.RELEASE/org.springframework:spring-jcl:jar:5.1.2.RELEASE</node>
+            <node x="" y="">commons-net:commons-net:jar:3.3</node>
+            <node x="" y="">dom4j:dom4j:jar:1.6.1</node>
+            <node x="" y="">dom4j:dom4j:jar:1.6.1/xml-apis:xml-apis:jar:1.4.01</node>
+            <node x="" y="">org.glassfish.jersey.core:jersey-server:jar:2.27</node>
+            <node x="" y="">org.glassfish.jersey.core:jersey-server:jar:2.27/org.glassfish.jersey.core:jersey-common:jar:2.27</node>
+            <node x="" y="">org.glassfish.jersey.core:jersey-server:jar:2.27/org.glassfish.jersey.core:jersey-common:jar:2.27/org.glassfish.hk2:osgi-resource-locator:jar:1.0.1</node>
+            <node x="" y="">org.glassfish.jersey.core:jersey-server:jar:2.27/org.glassfish.jersey.core:jersey-client:jar:2.27</node>
+            <node x="" y="">org.glassfish.jersey.core:jersey-server:jar:2.27/javax.ws.rs:javax.ws.rs-api:jar:2.1</node>
+            <node x="" y="">org.glassfish.jersey.core:jersey-server:jar:2.27/org.glassfish.jersey.media:jersey-media-jaxb:jar:2.27</node>
+            <node x="" y="">org.glassfish.jersey.core:jersey-server:jar:2.27/javax.annotation:javax.annotation-api:jar:1.3.2</node>
+            <node x="" y="">org.glassfish.jersey.core:jersey-server:jar:2.27/org.glassfish.hk2.external:javax.inject:jar:2.5.0-b42</node>
+            <node x="" y="">org.glassfish.jersey.core:jersey-server:jar:2.27/javax.validation:validation-api:jar:2.0.1.Final</node>
+            <node x="" y="">com.codingapi:transaction-springcloud:jar:4.1.0</node>
+            <node x="" y="">com.codingapi:transaction-springcloud:jar:4.1.0/com.codingapi:tx-client:jar:4.1.0</node>
+            <node x="" y="">com.codingapi:transaction-springcloud:jar:4.1.0/com.codingapi:tx-client:jar:4.1.0/com.github.1991wangliang:lorne_core:jar:1.0.0</node>
+            <node x="" y="">com.codingapi:transaction-springcloud:jar:4.1.0/com.codingapi:tx-client:jar:4.1.0/com.github.1991wangliang:lorne_core:jar:1.0.0/com.github.1991wangliang:lorne_exception:jar:1.0.0.RELEASE</node>
+            <node x="" y="">com.codingapi:transaction-springcloud:jar:4.1.0/com.codingapi:tx-client:jar:4.1.0/com.github.1991wangliang:lorne_core:jar:1.0.0/com.alibaba:fastjson:jar:1.2.34</node>
+            <node x="" y="">com.codingapi:transaction-springcloud:jar:4.1.0/com.codingapi:tx-client:jar:4.1.0/com.github.1991wangliang:lorne_core:jar:1.0.0/commons-fileupload:commons-fileupload:jar:1.3.1</node>
+            <node x="" y="">com.codingapi:transaction-springcloud:jar:4.1.0/com.codingapi:tx-client:jar:4.1.0/com.github.1991wangliang:lorne_core:jar:1.0.0/commons-beanutils:commons-beanutils:jar:1.7.0</node>
+            <node x="" y="">com.codingapi:transaction-springcloud:jar:4.1.0/com.codingapi:tx-client:jar:4.1.0/com.github.1991wangliang:lorne_core:jar:1.0.0/commons-beanutils:commons-beanutils:jar:1.7.0/commons-logging:commons-logging:jar:1.0.3</node>
+            <node x="" y="">com.codingapi:transaction-springcloud:jar:4.1.0/com.codingapi:tx-client:jar:4.1.0/com.github.1991wangliang:lorne_core:jar:1.0.0/commons-dbcp:commons-dbcp:jar:1.4</node>
+            <node x="" y="">com.codingapi:transaction-springcloud:jar:4.1.0/com.codingapi:tx-client:jar:4.1.0/com.github.1991wangliang:lorne_core:jar:1.0.0/commons-io:commons-io:jar:2.4</node>
+            <node x="" y="">com.codingapi:transaction-springcloud:jar:4.1.0/com.codingapi:tx-client:jar:4.1.0/com.github.1991wangliang:lorne_core:jar:1.0.0/commons-logging:commons-logging:jar:1.1.1</node>
+            <node x="" y="">com.codingapi:transaction-springcloud:jar:4.1.0/com.codingapi:tx-client:jar:4.1.0/com.github.1991wangliang:lorne_core:jar:1.0.0/commons-pool:commons-pool:jar:1.6</node>
+            <node x="" y="">com.codingapi:transaction-springcloud:jar:4.1.0/com.codingapi:tx-client:jar:4.1.0/com.github.1991wangliang:lorne_core:jar:1.0.0/commons-dbutils:commons-dbutils:jar:1.6</node>
+            <node x="" y="">com.codingapi:transaction-springcloud:jar:4.1.0/com.codingapi:tx-client:jar:4.1.0/com.github.1991wangliang:lorne_core:jar:1.0.0/org.apache.httpcomponents:httpmime:jar:4.5.6</node>
+            <node x="" y="">com.codingapi:transaction-springcloud:jar:4.1.0/com.codingapi:tx-client:jar:4.1.0/com.github.1991wangliang:lorne_core:jar:1.0.0/org.apache.axis:axis:jar:1.4</node>
+            <node x="" y="">com.codingapi:transaction-springcloud:jar:4.1.0/com.codingapi:tx-client:jar:4.1.0/io.netty:netty-all:jar:4.1.29.Final</node>
+            <node x="" y="">com.codingapi:transaction-springcloud:jar:4.1.0/com.codingapi:tx-client:jar:4.1.0/org.aspectj:aspectjrt:jar:1.9.2</node>
+            <node x="" y="">com.codingapi:transaction-springcloud:jar:4.1.0/com.codingapi:tx-client:jar:4.1.0/org.slf4j:slf4j-log4j12:jar:1.7.25</node>
+            <node x="" y="">com.codingapi:transaction-springcloud:jar:4.1.0/com.codingapi:tx-client:jar:4.1.0/org.slf4j:slf4j-simple:jar:1.7.25</node>
+            <node x="" y="">com.codingapi:transaction-springcloud:jar:4.1.0/com.codingapi:tx-client:jar:4.1.0/org.slf4j:slf4j-jdk14:jar:1.7.25</node>
+            <node x="" y="">com.codingapi:transaction-springcloud:jar:4.1.0/com.codingapi:tx-client:jar:4.1.0/javax.servlet:javax.servlet-api:jar:4.0.1</node>
+            <node x="" y="">com.codingapi:transaction-springcloud:jar:4.1.0/com.codingapi:tx-client:jar:4.1.0/com.caucho:hessian:jar:4.0.38</node>
+            <node x="" y="">com.codingapi:transaction-springcloud:jar:4.1.0/com.codingapi:tx-client:jar:4.1.0/com.dyuproject.protostuff:protostuff-core:jar:1.1.3</node>
+            <node x="" y="">com.codingapi:transaction-springcloud:jar:4.1.0/com.codingapi:tx-client:jar:4.1.0/com.dyuproject.protostuff:protostuff-core:jar:1.1.3/com.dyuproject.protostuff:protostuff-api:jar:1.1.3</node>
+            <node x="" y="">com.codingapi:transaction-springcloud:jar:4.1.0/com.codingapi:tx-client:jar:4.1.0/com.dyuproject.protostuff:protostuff-runtime:jar:1.1.3</node>
+            <node x="" y="">com.codingapi:transaction-springcloud:jar:4.1.0/com.codingapi:tx-client:jar:4.1.0/com.dyuproject.protostuff:protostuff-runtime:jar:1.1.3/com.dyuproject.protostuff:protostuff-collectionschema:jar:1.1.3</node>
+            <node x="" y="">com.codingapi:transaction-springcloud:jar:4.1.0/com.codingapi:tx-client:jar:4.1.0/com.esotericsoftware:kryo-shaded:jar:4.0.0</node>
+            <node x="" y="">com.codingapi:transaction-springcloud:jar:4.1.0/com.codingapi:tx-client:jar:4.1.0/com.esotericsoftware:kryo-shaded:jar:4.0.0/com.esotericsoftware:minlog:jar:1.3.0</node>
+            <node x="" y="">com.codingapi:transaction-springcloud:jar:4.1.0/com.codingapi:tx-client:jar:4.1.0/com.esotericsoftware:kryo-shaded:jar:4.0.0/org.objenesis:objenesis:jar:2.2</node>
+            <node x="" y="">com.codingapi:tx-plugins-db:jar:4.1.0</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-feign:jar:1.2.5.RELEASE</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-feign:jar:1.2.5.RELEASE/org.springframework.cloud:spring-cloud-starter:jar:1.1.7.RELEASE</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-feign:jar:1.2.5.RELEASE/org.springframework.cloud:spring-cloud-starter:jar:1.1.7.RELEASE/org.springframework.cloud:spring-cloud-context:jar:1.1.7.RELEASE</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-feign:jar:1.2.5.RELEASE/org.springframework.cloud:spring-cloud-starter:jar:1.1.7.RELEASE/org.springframework.security:spring-security-rsa:jar:1.0.3.RELEASE</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-feign:jar:1.2.5.RELEASE/org.springframework.cloud:spring-cloud-starter:jar:1.1.7.RELEASE/org.springframework.security:spring-security-rsa:jar:1.0.3.RELEASE/org.bouncycastle:bcpkix-jdk15on:jar:1.55</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-feign:jar:1.2.5.RELEASE/org.springframework.cloud:spring-cloud-starter:jar:1.1.7.RELEASE/org.springframework.security:spring-security-rsa:jar:1.0.3.RELEASE/org.bouncycastle:bcpkix-jdk15on:jar:1.55/org.bouncycastle:bcprov-jdk15on:jar:1.55</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-feign:jar:1.2.5.RELEASE/org.springframework.cloud:spring-cloud-netflix-core:jar:1.2.5.RELEASE</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-feign:jar:1.2.5.RELEASE/org.springframework:spring-web:jar:5.1.2.RELEASE</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-feign:jar:1.2.5.RELEASE/org.springframework.cloud:spring-cloud-commons:jar:1.1.7.RELEASE</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-feign:jar:1.2.5.RELEASE/org.springframework.cloud:spring-cloud-commons:jar:1.1.7.RELEASE/org.springframework.security:spring-security-crypto:jar:5.1.1.RELEASE</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-feign:jar:1.2.5.RELEASE/io.github.openfeign:feign-core:jar:9.3.1</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-feign:jar:1.2.5.RELEASE/io.github.openfeign:feign-core:jar:9.3.1/org.jvnet:animal-sniffer-annotation:jar:1.0</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-feign:jar:1.2.5.RELEASE/io.github.openfeign:feign-slf4j:jar:9.3.1</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-feign:jar:1.2.5.RELEASE/io.github.openfeign:feign-hystrix:jar:9.3.1</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-feign:jar:1.2.5.RELEASE/org.springframework.cloud:spring-cloud-starter-archaius:jar:1.2.5.RELEASE</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-feign:jar:1.2.5.RELEASE/org.springframework.cloud:spring-cloud-starter-archaius:jar:1.2.5.RELEASE/com.netflix.archaius:archaius-core:jar:0.7.4</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-feign:jar:1.2.5.RELEASE/org.springframework.cloud:spring-cloud-starter-archaius:jar:1.2.5.RELEASE/com.netflix.archaius:archaius-core:jar:0.7.4/com.google.code.findbugs:jsr305:jar:3.0.1</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-feign:jar:1.2.5.RELEASE/org.springframework.cloud:spring-cloud-starter-archaius:jar:1.2.5.RELEASE/commons-configuration:commons-configuration:jar:1.8</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-feign:jar:1.2.5.RELEASE/org.springframework.cloud:spring-cloud-starter-archaius:jar:1.2.5.RELEASE/com.fasterxml.jackson.core:jackson-annotations:jar:2.9.0</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-feign:jar:1.2.5.RELEASE/org.springframework.cloud:spring-cloud-starter-archaius:jar:1.2.5.RELEASE/com.fasterxml.jackson.core:jackson-core:jar:2.9.7</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-ribbon:jar:1.2.5.RELEASE</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-ribbon:jar:1.2.5.RELEASE/org.springframework.retry:spring-retry:jar:1.2.2.RELEASE</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-ribbon:jar:1.2.5.RELEASE/com.netflix.ribbon:ribbon:jar:2.2.0</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-ribbon:jar:1.2.5.RELEASE/com.netflix.ribbon:ribbon:jar:2.2.0/com.netflix.ribbon:ribbon-transport:jar:2.2.0</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-ribbon:jar:1.2.5.RELEASE/com.netflix.ribbon:ribbon:jar:2.2.0/com.netflix.ribbon:ribbon-transport:jar:2.2.0/io.reactivex:rxnetty-contexts:jar:0.4.9</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-ribbon:jar:1.2.5.RELEASE/com.netflix.ribbon:ribbon:jar:2.2.0/com.netflix.ribbon:ribbon-transport:jar:2.2.0/io.reactivex:rxnetty-servo:jar:0.4.9</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-ribbon:jar:1.2.5.RELEASE/com.netflix.ribbon:ribbon:jar:2.2.0/javax.inject:javax.inject:jar:1</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-ribbon:jar:1.2.5.RELEASE/com.netflix.ribbon:ribbon:jar:2.2.0/io.reactivex:rxnetty:jar:0.4.9</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-ribbon:jar:1.2.5.RELEASE/com.netflix.ribbon:ribbon:jar:2.2.0/io.reactivex:rxnetty:jar:0.4.9/io.netty:netty-codec-http:jar:4.1.29.Final</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-ribbon:jar:1.2.5.RELEASE/com.netflix.ribbon:ribbon:jar:2.2.0/io.reactivex:rxnetty:jar:0.4.9/io.netty:netty-transport-native-epoll:jar:4.1.29.Final</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-ribbon:jar:1.2.5.RELEASE/com.netflix.ribbon:ribbon:jar:2.2.0/io.reactivex:rxnetty:jar:0.4.9/io.netty:netty-transport-native-epoll:jar:4.1.29.Final/io.netty:netty-transport-native-unix-common:jar:4.1.29.Final</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-ribbon:jar:1.2.5.RELEASE/com.netflix.ribbon:ribbon-core:jar:2.2.0</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-ribbon:jar:1.2.5.RELEASE/com.netflix.ribbon:ribbon-core:jar:2.2.0/commons-lang:commons-lang:jar:2.6</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-ribbon:jar:1.2.5.RELEASE/com.netflix.ribbon:ribbon-httpclient:jar:2.2.0</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-ribbon:jar:1.2.5.RELEASE/com.netflix.ribbon:ribbon-httpclient:jar:2.2.0/commons-collections:commons-collections:jar:3.2.1</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-ribbon:jar:1.2.5.RELEASE/com.netflix.ribbon:ribbon-httpclient:jar:2.2.0/com.sun.jersey:jersey-client:jar:1.19.1</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-ribbon:jar:1.2.5.RELEASE/com.netflix.ribbon:ribbon-httpclient:jar:2.2.0/com.sun.jersey:jersey-client:jar:1.19.1/com.sun.jersey:jersey-core:jar:1.19.1</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-ribbon:jar:1.2.5.RELEASE/com.netflix.ribbon:ribbon-httpclient:jar:2.2.0/com.sun.jersey.contribs:jersey-apache-client4:jar:1.19.1</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-ribbon:jar:1.2.5.RELEASE/com.netflix.ribbon:ribbon-httpclient:jar:2.2.0/com.netflix.servo:servo-core:jar:0.10.1</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-ribbon:jar:1.2.5.RELEASE/com.netflix.ribbon:ribbon-httpclient:jar:2.2.0/com.netflix.servo:servo-core:jar:0.10.1/com.netflix.servo:servo-internal:jar:0.10.1</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-ribbon:jar:1.2.5.RELEASE/com.netflix.ribbon:ribbon-httpclient:jar:2.2.0/com.netflix.netflix-commons:netflix-commons-util:jar:0.1.1</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-ribbon:jar:1.2.5.RELEASE/com.netflix.ribbon:ribbon-loadbalancer:jar:2.2.0</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-ribbon:jar:1.2.5.RELEASE/com.netflix.ribbon:ribbon-loadbalancer:jar:2.2.0/com.netflix.netflix-commons:netflix-statistics:jar:0.1.1</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-ribbon:jar:1.2.5.RELEASE/io.reactivex:rxjava:jar:1.3.8</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-actuator:jar:2.1.0.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-actuator:jar:2.1.0.RELEASE/org.springframework.boot:spring-boot-actuator-autoconfigure:jar:2.1.0.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-actuator:jar:2.1.0.RELEASE/org.springframework.boot:spring-boot-actuator-autoconfigure:jar:2.1.0.RELEASE/org.springframework.boot:spring-boot-actuator:jar:2.1.0.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-actuator:jar:2.1.0.RELEASE/org.springframework.boot:spring-boot-actuator-autoconfigure:jar:2.1.0.RELEASE/com.fasterxml.jackson.datatype:jackson-datatype-jsr310:jar:2.9.7</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-actuator:jar:2.1.0.RELEASE/io.micrometer:micrometer-core:jar:1.1.0</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-actuator:jar:2.1.0.RELEASE/io.micrometer:micrometer-core:jar:1.1.0/org.hdrhistogram:HdrHistogram:jar:2.1.9</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-actuator:jar:2.1.0.RELEASE/io.micrometer:micrometer-core:jar:1.1.0/org.latencyutils:LatencyUtils:jar:2.0.3</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-hystrix:jar:1.2.5.RELEASE</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-hystrix:jar:1.2.5.RELEASE/com.netflix.hystrix:hystrix-core:jar:1.5.6</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-hystrix:jar:1.2.5.RELEASE/com.netflix.hystrix:hystrix-metrics-event-stream:jar:1.5.6</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-hystrix:jar:1.2.5.RELEASE/com.netflix.hystrix:hystrix-metrics-event-stream:jar:1.5.6/com.netflix.hystrix:hystrix-serialization:jar:1.5.6</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-hystrix:jar:1.2.5.RELEASE/com.netflix.hystrix:hystrix-metrics-event-stream:jar:1.5.6/com.netflix.hystrix:hystrix-serialization:jar:1.5.6/com.fasterxml.jackson.module:jackson-module-afterburner:jar:2.9.7</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-hystrix:jar:1.2.5.RELEASE/com.netflix.hystrix:hystrix-metrics-event-stream:jar:1.5.6/com.netflix.hystrix:hystrix-serialization:jar:1.5.6/com.fasterxml.jackson.dataformat:jackson-dataformat-cbor:jar:2.9.7</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-hystrix:jar:1.2.5.RELEASE/com.netflix.hystrix:hystrix-javanica:jar:1.5.6</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-hystrix:jar:1.2.5.RELEASE/com.netflix.hystrix:hystrix-javanica:jar:1.5.6/commons-collections:commons-collections:jar:3.2.2</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-hystrix:jar:1.2.5.RELEASE/com.netflix.hystrix:hystrix-javanica:jar:1.5.6/org.apache.commons:commons-lang3:jar:3.8.1</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-hystrix:jar:1.2.5.RELEASE/com.netflix.hystrix:hystrix-javanica:jar:1.5.6/org.ow2.asm:asm:jar:5.0.4</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter:jar:2.1.0.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter:jar:2.1.0.RELEASE/org.springframework.boot:spring-boot:jar:2.1.0.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter:jar:2.1.0.RELEASE/org.springframework.boot:spring-boot-autoconfigure:jar:2.1.0.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter:jar:2.1.0.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:2.1.0.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter:jar:2.1.0.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:2.1.0.RELEASE/ch.qos.logback:logback-classic:jar:1.2.3</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter:jar:2.1.0.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:2.1.0.RELEASE/org.apache.logging.log4j:log4j-to-slf4j:jar:2.11.1</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter:jar:2.1.0.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:2.1.0.RELEASE/org.apache.logging.log4j:log4j-to-slf4j:jar:2.11.1/org.apache.logging.log4j:log4j-api:jar:2.11.1</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter:jar:2.1.0.RELEASE/org.springframework.boot:spring-boot-starter-logging:jar:2.1.0.RELEASE/org.slf4j:jul-to-slf4j:jar:1.7.25</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter:jar:2.1.0.RELEASE/org.yaml:snakeyaml:jar:1.23</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.1.0.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.1.0.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.1.0.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.1.0.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.1.0.RELEASE/com.fasterxml.jackson.datatype:jackson-datatype-jdk8:jar:2.9.7</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.1.0.RELEASE/org.springframework.boot:spring-boot-starter-json:jar:2.1.0.RELEASE/com.fasterxml.jackson.module:jackson-module-parameter-names:jar:2.9.7</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.1.0.RELEASE/org.springframework.boot:spring-boot-starter-tomcat:jar:2.1.0.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.1.0.RELEASE/org.springframework.boot:spring-boot-starter-tomcat:jar:2.1.0.RELEASE/org.apache.tomcat.embed:tomcat-embed-core:jar:9.0.12</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.1.0.RELEASE/org.springframework.boot:spring-boot-starter-tomcat:jar:2.1.0.RELEASE/org.apache.tomcat.embed:tomcat-embed-el:jar:9.0.12</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.1.0.RELEASE/org.springframework.boot:spring-boot-starter-tomcat:jar:2.1.0.RELEASE/org.apache.tomcat.embed:tomcat-embed-websocket:jar:9.0.12</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.1.0.RELEASE/org.hibernate.validator:hibernate-validator:jar:6.0.13.Final</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.1.0.RELEASE/org.hibernate.validator:hibernate-validator:jar:6.0.13.Final/org.jboss.logging:jboss-logging:jar:3.3.2.Final</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.1.0.RELEASE/org.hibernate.validator:hibernate-validator:jar:6.0.13.Final/com.fasterxml:classmate:jar:1.4.0</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-web:jar:2.1.0.RELEASE/org.springframework:spring-webmvc:jar:5.1.2.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.1.0.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.1.0.RELEASE/org.springframework.boot:spring-boot-test:jar:2.1.0.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.1.0.RELEASE/org.springframework.boot:spring-boot-test-autoconfigure:jar:2.1.0.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.1.0.RELEASE/com.jayway.jsonpath:json-path:jar:2.4.0</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.1.0.RELEASE/com.jayway.jsonpath:json-path:jar:2.4.0/net.minidev:json-smart:jar:2.3</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.1.0.RELEASE/com.jayway.jsonpath:json-path:jar:2.4.0/net.minidev:json-smart:jar:2.3/net.minidev:accessors-smart:jar:1.2</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.1.0.RELEASE/org.assertj:assertj-core:jar:3.11.1</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.1.0.RELEASE/org.mockito:mockito-core:jar:2.23.0</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.1.0.RELEASE/org.mockito:mockito-core:jar:2.23.0/net.bytebuddy:byte-buddy:jar:1.9.3</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.1.0.RELEASE/org.mockito:mockito-core:jar:2.23.0/net.bytebuddy:byte-buddy-agent:jar:1.9.3</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.1.0.RELEASE/org.mockito:mockito-core:jar:2.23.0/org.objenesis:objenesis:jar:2.6</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.1.0.RELEASE/org.hamcrest:hamcrest-library:jar:1.3</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.1.0.RELEASE/org.skyscreamer:jsonassert:jar:1.5.0</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.1.0.RELEASE/org.skyscreamer:jsonassert:jar:1.5.0/com.vaadin.external.google:android-json:jar:0.0.20131108.vaadin1</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.1.0.RELEASE/org.springframework:spring-test:jar:5.1.2.RELEASE</node>
+            <node x="" y="">org.springframework.boot:spring-boot-starter-test:jar:2.1.0.RELEASE/org.xmlunit:xmlunit-core:jar:2.6.2</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-eureka-server:jar:1.2.5.RELEASE</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-eureka-server:jar:1.2.5.RELEASE/org.springframework.cloud:spring-cloud-netflix-eureka-server:jar:1.2.5.RELEASE</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-eureka-server:jar:1.2.5.RELEASE/org.springframework.cloud:spring-cloud-netflix-eureka-server:jar:1.2.5.RELEASE/org.springframework.boot:spring-boot-starter-freemarker:jar:2.1.0.RELEASE</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-eureka-server:jar:1.2.5.RELEASE/org.springframework.cloud:spring-cloud-netflix-eureka-server:jar:1.2.5.RELEASE/org.springframework.boot:spring-boot-starter-freemarker:jar:2.1.0.RELEASE/org.freemarker:freemarker:jar:2.3.28</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-eureka-server:jar:1.2.5.RELEASE/org.springframework.cloud:spring-cloud-netflix-eureka-server:jar:1.2.5.RELEASE/org.springframework.cloud:spring-cloud-netflix-eureka-client:jar:1.2.5.RELEASE</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-eureka-server:jar:1.2.5.RELEASE/org.springframework.cloud:spring-cloud-netflix-eureka-server:jar:1.2.5.RELEASE/com.netflix.eureka:eureka-client:jar:1.4.12</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-eureka-server:jar:1.2.5.RELEASE/org.springframework.cloud:spring-cloud-netflix-eureka-server:jar:1.2.5.RELEASE/com.netflix.eureka:eureka-client:jar:1.4.12/org.codehaus.jettison:jettison:jar:1.3.7</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-eureka-server:jar:1.2.5.RELEASE/org.springframework.cloud:spring-cloud-netflix-eureka-server:jar:1.2.5.RELEASE/com.netflix.eureka:eureka-client:jar:1.4.12/org.codehaus.jettison:jettison:jar:1.3.7/stax:stax-api:jar:1.0.1</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-eureka-server:jar:1.2.5.RELEASE/org.springframework.cloud:spring-cloud-netflix-eureka-server:jar:1.2.5.RELEASE/com.netflix.eureka:eureka-client:jar:1.4.12/com.netflix.netflix-commons:netflix-eventbus:jar:0.3.0</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-eureka-server:jar:1.2.5.RELEASE/org.springframework.cloud:spring-cloud-netflix-eureka-server:jar:1.2.5.RELEASE/com.netflix.eureka:eureka-client:jar:1.4.12/com.netflix.netflix-commons:netflix-eventbus:jar:0.3.0/com.netflix.netflix-commons:netflix-infix:jar:0.3.0</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-eureka-server:jar:1.2.5.RELEASE/org.springframework.cloud:spring-cloud-netflix-eureka-server:jar:1.2.5.RELEASE/com.netflix.eureka:eureka-client:jar:1.4.12/com.netflix.netflix-commons:netflix-eventbus:jar:0.3.0/com.netflix.netflix-commons:netflix-infix:jar:0.3.0/commons-jxpath:commons-jxpath:jar:1.3</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-eureka-server:jar:1.2.5.RELEASE/org.springframework.cloud:spring-cloud-netflix-eureka-server:jar:1.2.5.RELEASE/com.netflix.eureka:eureka-client:jar:1.4.12/com.netflix.netflix-commons:netflix-eventbus:jar:0.3.0/com.netflix.netflix-commons:netflix-infix:jar:0.3.0/joda-time:joda-time:jar:2.10.1</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-eureka-server:jar:1.2.5.RELEASE/org.springframework.cloud:spring-cloud-netflix-eureka-server:jar:1.2.5.RELEASE/com.netflix.eureka:eureka-client:jar:1.4.12/com.netflix.netflix-commons:netflix-eventbus:jar:0.3.0/com.netflix.netflix-commons:netflix-infix:jar:0.3.0/org.antlr:antlr-runtime:jar:3.4</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-eureka-server:jar:1.2.5.RELEASE/org.springframework.cloud:spring-cloud-netflix-eureka-server:jar:1.2.5.RELEASE/com.netflix.eureka:eureka-client:jar:1.4.12/com.netflix.netflix-commons:netflix-eventbus:jar:0.3.0/com.netflix.netflix-commons:netflix-infix:jar:0.3.0/org.antlr:antlr-runtime:jar:3.4/org.antlr:stringtemplate:jar:3.2.1</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-eureka-server:jar:1.2.5.RELEASE/org.springframework.cloud:spring-cloud-netflix-eureka-server:jar:1.2.5.RELEASE/com.netflix.eureka:eureka-client:jar:1.4.12/com.netflix.netflix-commons:netflix-eventbus:jar:0.3.0/com.netflix.netflix-commons:netflix-infix:jar:0.3.0/org.antlr:antlr-runtime:jar:3.4/antlr:antlr:jar:2.7.7</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-eureka-server:jar:1.2.5.RELEASE/org.springframework.cloud:spring-cloud-netflix-eureka-server:jar:1.2.5.RELEASE/com.netflix.eureka:eureka-client:jar:1.4.12/com.netflix.netflix-commons:netflix-eventbus:jar:0.3.0/com.netflix.netflix-commons:netflix-infix:jar:0.3.0/com.google.code.gson:gson:jar:2.8.5</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-eureka-server:jar:1.2.5.RELEASE/org.springframework.cloud:spring-cloud-netflix-eureka-server:jar:1.2.5.RELEASE/com.netflix.eureka:eureka-client:jar:1.4.12/com.netflix.netflix-commons:netflix-eventbus:jar:0.3.0/org.apache.commons:commons-math:jar:2.2</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-eureka-server:jar:1.2.5.RELEASE/org.springframework.cloud:spring-cloud-netflix-eureka-server:jar:1.2.5.RELEASE/com.netflix.eureka:eureka-client:jar:1.4.12/javax.ws.rs:jsr311-api:jar:1.1.1</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-eureka-server:jar:1.2.5.RELEASE/org.springframework.cloud:spring-cloud-netflix-eureka-server:jar:1.2.5.RELEASE/com.netflix.eureka:eureka-client:jar:1.4.12/com.google.inject:guice:jar:4.0</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-eureka-server:jar:1.2.5.RELEASE/org.springframework.cloud:spring-cloud-netflix-eureka-server:jar:1.2.5.RELEASE/com.netflix.eureka:eureka-client:jar:1.4.12/com.google.inject:guice:jar:4.0/aopalliance:aopalliance:jar:1.0</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-eureka-server:jar:1.2.5.RELEASE/org.springframework.cloud:spring-cloud-netflix-eureka-server:jar:1.2.5.RELEASE/com.netflix.eureka:eureka-client:jar:1.4.12/com.netflix.governator:governator-api:jar:1.12.10</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-eureka-server:jar:1.2.5.RELEASE/org.springframework.cloud:spring-cloud-netflix-eureka-server:jar:1.2.5.RELEASE/com.sun.jersey:jersey-servlet:jar:1.19.1</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-eureka-server:jar:1.2.5.RELEASE/org.springframework.cloud:spring-cloud-netflix-eureka-server:jar:1.2.5.RELEASE/com.sun.jersey:jersey-server:jar:1.19.1</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-eureka-server:jar:1.2.5.RELEASE/org.springframework.cloud:spring-cloud-netflix-eureka-server:jar:1.2.5.RELEASE/com.netflix.eureka:eureka-core:jar:1.4.12</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-eureka-server:jar:1.2.5.RELEASE/org.springframework.cloud:spring-cloud-netflix-eureka-server:jar:1.2.5.RELEASE/com.netflix.eureka:eureka-core:jar:1.4.12/com.netflix.governator:governator:jar:1.12.10</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-eureka-server:jar:1.2.5.RELEASE/org.springframework.cloud:spring-cloud-netflix-eureka-server:jar:1.2.5.RELEASE/com.netflix.eureka:eureka-core:jar:1.4.12/com.netflix.governator:governator:jar:1.12.10/com.netflix.governator:governator-core:jar:1.12.10</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-eureka-server:jar:1.2.5.RELEASE/org.springframework.cloud:spring-cloud-netflix-eureka-server:jar:1.2.5.RELEASE/com.netflix.eureka:eureka-core:jar:1.4.12/com.netflix.governator:governator:jar:1.12.10/com.netflix.governator:governator-core:jar:1.12.10/com.google.inject.extensions:guice-multibindings:jar:4.0</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-eureka-server:jar:1.2.5.RELEASE/org.springframework.cloud:spring-cloud-netflix-eureka-server:jar:1.2.5.RELEASE/com.netflix.eureka:eureka-core:jar:1.4.12/com.netflix.governator:governator:jar:1.12.10/com.netflix.governator:governator-core:jar:1.12.10/com.google.inject.extensions:guice-grapher:jar:4.0</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-eureka-server:jar:1.2.5.RELEASE/org.springframework.cloud:spring-cloud-netflix-eureka-server:jar:1.2.5.RELEASE/com.netflix.eureka:eureka-core:jar:1.4.12/com.netflix.governator:governator:jar:1.12.10/com.netflix.governator:governator-core:jar:1.12.10/com.google.inject.extensions:guice-grapher:jar:4.0/com.google.inject.extensions:guice-assistedinject:jar:4.0</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-eureka-server:jar:1.2.5.RELEASE/org.springframework.cloud:spring-cloud-netflix-eureka-server:jar:1.2.5.RELEASE/com.netflix.eureka:eureka-core:jar:1.4.12/com.netflix.governator:governator:jar:1.12.10/org.hibernate:hibernate-validator:jar:4.1.0.Final</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-eureka-server:jar:1.2.5.RELEASE/org.springframework.cloud:spring-cloud-netflix-eureka-server:jar:1.2.5.RELEASE/com.netflix.eureka:eureka-core:jar:1.4.12/org.codehaus.woodstox:woodstox-core-asl:jar:4.4.1</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-eureka-server:jar:1.2.5.RELEASE/org.springframework.cloud:spring-cloud-netflix-eureka-server:jar:1.2.5.RELEASE/com.netflix.eureka:eureka-core:jar:1.4.12/org.codehaus.woodstox:woodstox-core-asl:jar:4.4.1/javax.xml.stream:stax-api:jar:1.0-2</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-eureka-server:jar:1.2.5.RELEASE/org.springframework.cloud:spring-cloud-netflix-eureka-server:jar:1.2.5.RELEASE/com.fasterxml.jackson.dataformat:jackson-dataformat-xml:jar:2.9.7</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-eureka-server:jar:1.2.5.RELEASE/org.springframework.cloud:spring-cloud-netflix-eureka-server:jar:1.2.5.RELEASE/com.fasterxml.jackson.dataformat:jackson-dataformat-xml:jar:2.9.7/com.fasterxml.jackson.module:jackson-module-jaxb-annotations:jar:2.9.7</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-eureka-server:jar:1.2.5.RELEASE/org.springframework.cloud:spring-cloud-netflix-eureka-server:jar:1.2.5.RELEASE/com.fasterxml.jackson.dataformat:jackson-dataformat-xml:jar:2.9.7/org.codehaus.woodstox:stax2-api:jar:3.1.4</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-eureka-server:jar:1.2.5.RELEASE/org.springframework.cloud:spring-cloud-netflix-eureka-server:jar:1.2.5.RELEASE/com.fasterxml.jackson.dataformat:jackson-dataformat-xml:jar:2.9.7/com.fasterxml.woodstox:woodstox-core:jar:5.0.3</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-eureka-server:jar:1.2.5.RELEASE/org.springframework.cloud:spring-cloud-netflix-eureka-server:jar:1.2.5.RELEASE/com.thoughtworks.xstream:xstream:jar:1.4.9</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-eureka-server:jar:1.2.5.RELEASE/org.springframework.cloud:spring-cloud-netflix-eureka-server:jar:1.2.5.RELEASE/com.thoughtworks.xstream:xstream:jar:1.4.9/xmlpull:xmlpull:jar:1.1.3.1</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-eureka-server:jar:1.2.5.RELEASE/org.springframework.cloud:spring-cloud-netflix-eureka-server:jar:1.2.5.RELEASE/com.thoughtworks.xstream:xstream:jar:1.4.9/xpp3:xpp3_min:jar:1.1.4c</node>
+            <node x="" y="">org.springframework.cloud:spring-cloud-starter-eureka-server:jar:1.2.5.RELEASE/com.netflix.ribbon:ribbon-eureka:jar:2.2.0</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="0.2" x="1612.0" y="2069.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>All</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/codingapi/transaction-springcloud/4.1.0/transaction-springcloud-4.1.0.jar!/com/codingapi/tx/springcloud/listener/ServerListener.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="5" column="27" lean-forward="false" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="27" />
+          <folding>
+            <marker date="1542806409721" expanded="true" signature="0:104" ph="/.../" />
+            <marker date="1542806409721" expanded="false" signature="161:523" ph="..." />
+            <marker date="1542806409721" expanded="true" signature="823:830" ph="{}" />
+            <marker date="1542806409721" expanded="true" signature="915:1139" ph="{...}" />
+            <marker date="1542806409721" expanded="false" signature="1165:1176" ph=" { " />
+            <marker date="1542806409721" expanded="false" signature="1199:1205" ph=" }" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../bid-parent/bid-eureka/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="22" lean-forward="false" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../bid-parent/bid-platform-api/src/main/java/com/bid/springcloud/service/PtResourceClientService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="18" column="6" lean-forward="false" selection-start-line="18" selection-start-column="6" selection-end-line="18" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../bid-parent/bid-common-pojo/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../bid-parent/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="164" column="0" lean-forward="true" selection-start-line="164" selection-start-column="0" selection-end-line="164" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>bid-enterprise-api</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: ch.qos.logback:logback-classic:1.2.3</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

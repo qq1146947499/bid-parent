@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../bid-parent/bid-colleage/bid-colleage.iml" filepath="$PROJECT_DIR$/../bid-parent/bid-colleage/bid-colleage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../bid-parent/bid-colleage-api/bid-colleage-api.iml" filepath="$PROJECT_DIR$/../bid-parent/bid-colleage-api/bid-colleage-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../bid-parent/bid-colleage-web/bid-colleage-web.iml" filepath="$PROJECT_DIR$/../bid-parent/bid-colleage-web/bid-colleage-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../bid-parent/bid-common-mapper/bid-common-mapper.iml" filepath="$PROJECT_DIR$/../bid-parent/bid-common-mapper/bid-common-mapper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../bid-parent/bid-common-pojo/bid-common-pojo.iml" filepath="$PROJECT_DIR$/../bid-parent/bid-common-pojo/bid-common-pojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../bid-parent/bid-enterprise/bid-enterprise.iml" filepath="$PROJECT_DIR$/../bid-parent/bid-enterprise/bid-enterprise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../bid-parent/bid-enterprise-api/bid-enterprise-api.iml" filepath="$PROJECT_DIR$/../bid-parent/bid-enterprise-api/bid-enterprise-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../bid-parent/bid-enterprise-web/bid-enterprise-web.iml" filepath="$PROJECT_DIR$/../bid-parent/bid-enterprise-web/bid-enterprise-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../bid-parent/bid-eureka/bid-eureka.iml" filepath="$PROJECT_DIR$/../bid-parent/bid-eureka/bid-eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bid-parent.iml" filepath="$PROJECT_DIR$/bid-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../bid-parent/bid-platform/bid-platform.iml" filepath="$PROJECT_DIR$/../bid-parent/bid-platform/bid-platform.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../bid-parent/bid-platform-api/bid-platform-api.iml" filepath="$PROJECT_DIR$/../bid-parent/bid-platform-api/bid-platform-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../bid-parent/bid-platform-web/bid-platform-web.iml" filepath="$PROJECT_DIR$/../bid-parent/bid-platform-web/bid-platform-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../bid-parent/bid-protal/bid-protal.iml" filepath="$PROJECT_DIR$/../bid-parent/bid-protal/bid-protal.iml" />
+    </modules>
+  </component>
+</project>
